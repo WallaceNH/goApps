@@ -1,4 +1,4 @@
-package main
+package Inicios
 
 import (
 	"fmt"
@@ -6,7 +6,7 @@ import (
 	"strconv"
 )
 
-func main() {
+func x() {
 
 	x := [9999]int{}
 	var y []int
