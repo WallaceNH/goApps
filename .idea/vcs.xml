@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webService01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webService01/go-getting-started" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webService01/obscure-dusk-88294" vcs="Git" />
   </component>
 </project>
